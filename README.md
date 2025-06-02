@@ -6,9 +6,9 @@
   </head>
   <body>
     
-    <h1>Apa itu penyakit scabies?</h1>
-    <p>Dilansir dari <a href="https://www.halodoc.com/kesehatan/kudis?srsltid=AfmBOorJUHwqjcjIjICSvAOzbhUqSNv1An5ko2lLV3S87aVJvSqlNrhQ">www.halodoc.com</a> Kudis, disebut juga scabies atau gudik, adalah infeksi kulit yang disebabkan oleh tungau Sarcoptes scabiei. Tungau tersebut bereproduksi pada permukaan kulit, lalu masuk ke dalam kulit untuk bertelur.<br>
-<br>
+  <h1>Apa itu penyakit scabies?</h1>
+    <p>Dilansir dari <a href="https://www.halodoc.com/kesehatan/kudis?srsltid=AfmBOorJUHwqjcjIjICSvAOzbhUqSNv1An5ko2lLV3S87aVJvSqlNrhQ">www.halodoc.com</a> Kudis, disebut juga scabies atau gudik, adalah infeksi kulit yang disebabkan oleh tungau Sarcoptes scabiei. Tungau tersebut bereproduksi pada permukaan kulit, lalu masuk ke dalam kulit untuk bertelur.<br
+    <br>
 Masuknya tungau tersebutlah yang menimbulkan rasa gatal. Timbulnya rasa gatal dan keinginan menggaruk dapat lebih parah di malam hari.<br>
 <br>
 Penyakit ini terbilang sangat mudah menular dan menyebar dengan cepat, terlebih jika seseorang melakukan kontak fisik dekat dengan pengidapnya. Meski begitu, kudis dapat dengan mudah diobati yang mampu membunuh tungau serta telurnya pada kulit.</p>   
